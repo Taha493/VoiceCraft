@@ -20,18 +20,6 @@
 
 ---
 
-<a id="demo"></a>
-
-## 🎬 Demo
-
-<div align="center">
-
-<img src="docs/assets/demo-how-it-works.gif" alt="VoiceCraft demo: read, speak, sync, mix, export" width="85%" />
-
-<sub>A preview of a captioned product video. VoiceCraft generated its voice-over and music from the captions on screen.</sub>
-
-</div>
-
 ---
 
 <a id="problem"></a>
