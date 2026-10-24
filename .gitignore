@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated benchmark media and outputs
+backend/bench/data/
+backend/bench/out/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Render temporaries
+*.partial.mp4
+
+# Private marketing material (portfolio video, cover images) — kept local only
+marketing/

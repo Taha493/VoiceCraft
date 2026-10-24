@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-label="Pipeline: silent video, read captions, speak, sync, mix, narrated MP4">
+  <defs><clipPath id="c"><rect width="1280" height="230" rx="24"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b14"/><stop offset="1" stop-color="#140c28"/></linearGradient></defs>
+  <g clip-path="url(#c)"><rect width="1280" height="230" fill="url(#bg)"/>
+  <path d="M215.0 115.0 h26" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="22;0" dur="0.8s" repeatCount="indefinite"/></path><path d="M237.0 110.0 l6 5 l-6 5" stroke="#a78bfa" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M421.0 115.0 h26" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="22;0" dur="0.8s" repeatCount="indefinite"/></path><path d="M443.0 110.0 l6 5 l-6 5" stroke="#a78bfa" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M627.0 115.0 h26" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="22;0" dur="0.8s" repeatCount="indefinite"/></path><path d="M649.0 110.0 l6 5 l-6 5" stroke="#a78bfa" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M833.0 115.0 h26" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="22;0" dur="0.8s" repeatCount="indefinite"/></path><path d="M855.0 110.0 l6 5 l-6 5" stroke="#a78bfa" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M1039.0 115.0 h26" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"><animate attributeName="stroke-dashoffset" values="22;0" dur="0.8s" repeatCount="indefinite"/></path><path d="M1061.0 110.0 l6 5 l-6 5" stroke="#a78bfa" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <rect x="39.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="39.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#a3a3bb" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+    <g transform="translate(103.0 62)">
+      <rect width="44" height="44" rx="12" fill="#a3a3bb" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#a3a3bb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 3v18M17 3v18M3 7.5h4M3 12h18M3 16.5h4M17 7.5h4M17 16.5h4"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="0.0s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="125.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Silent video</text>
+    <text x="125.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">captions burned in</text>
+  </g><g>
+    <rect x="245.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="245.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="0.7s" repeatCount="indefinite"/></rect>
+    <g transform="translate(309.0 62)">
+      <rect width="44" height="44" rx="12" fill="#a78bfa" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M7 9h10M7 13h10M7 17h6"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="0.7s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="331.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Read</text>
+    <text x="331.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">OCR finds captions</text>
+  </g><g>
+    <rect x="451.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="451.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#c4b5fd" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="1.4s" repeatCount="indefinite"/></rect>
+    <g transform="translate(515.0 62)">
+      <rect width="44" height="44" rx="12" fill="#c4b5fd" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><path d="M12 19v3"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="1.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="537.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Speak</text>
+    <text x="537.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">natural local voice</text>
+  </g><g>
+    <rect x="657.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="657.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#34d399" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="2.1s" repeatCount="indefinite"/></rect>
+    <g transform="translate(721.0 62)">
+      <rect width="44" height="44" rx="12" fill="#34d399" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2"/><path d="M9 2h6"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="2.1s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="743.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Sync</text>
+    <text x="743.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">line starts with caption</text>
+  </g><g>
+    <rect x="863.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="863.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="2.8s" repeatCount="indefinite"/></rect>
+    <g transform="translate(927.0 62)">
+      <rect width="44" height="44" rx="12" fill="#22d3ee" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="2.8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="949.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Mix</text>
+    <text x="949.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">music, ducking, −16 LUFS</text>
+  </g><g>
+    <rect x="1069.0" y="40" width="172" height="150" rx="18" fill="#12121c" stroke="#2a2a3d"/>
+    <rect x="1069.0" y="40" width="172" height="150" rx="18" fill="none" stroke="#6ee7b7" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.2;0.32;1" dur="5.4s" begin="3.5s" repeatCount="indefinite"/></rect>
+    <g transform="translate(1133.0 62)">
+      <rect width="44" height="44" rx="12" fill="#6ee7b7" fill-opacity=".14"/>
+      <g transform="translate(10 10)" fill="none" stroke="#6ee7b7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="scale(1)"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></g>
+        <animateTransform attributeName="transform" type="translate" values="10 10;10 7;10 10;10 10" keyTimes="0;0.08;0.16;1" dur="5.4s" begin="3.5s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="1155.0" y="140" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1f1f7">Narrated MP4</text>
+    <text x="1155.0" y="164" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#a3a3bb">ready to share</text>
+  </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Noto Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SFMono-Regular', 'DejaVu Sans Mono', monospace;
+
+  --color-canvas: #0a0a10;
+  --color-panel: #12121b;
+  --color-raised: #1a1a26;
+  --color-line: #262636;
+  --color-line-strong: #353549;
+  --color-ink: #ececf3;
+  --color-muted: #9b9bb2;
+  --color-faint: #6b6b82;
+  --color-accent: #8b5cf6;
+  --color-accent-strong: #7c3aed;
+  --color-accent-soft: #8b5cf626;
+
+  --color-st-fits: #34d399;
+  --color-st-borrowed: #38bdf8;
+  --color-st-sped: #fbbf24;
+  --color-st-held: #e879f9;
+  --color-st-overrun: #fb7185;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: #8b5cf666;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-strong) transparent;
+}
+
+input[type='range'] {
+  accent-color: var(--color-accent);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes pulse-bar {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.animate-pulse-bar {
+  animation: pulse-bar 1.4s ease-in-out infinite;
+}
